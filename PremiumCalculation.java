@@ -90,7 +90,7 @@ public class PremiumCalculation { //исходный класс
                                 case '3':
                                     break minorMenu;
                                 default:
-                                    System.out.print("Ошибка. Сделайте свой выбор еще раз.");
+                                    System.out.print("Ошибка. Сделайте свой выбор еще раз...");
                                     break;
                             }
                         }
@@ -112,7 +112,7 @@ public class PremiumCalculation { //исходный класс
                 case '5':
                     return;
                 default:
-                    System.out.print("Ошибка. Сделайте свой выбор еще раз.\n");
+                    System.out.print("Ошибка. Сделайте свой выбор еще раз...\n");
                     break;
             }
         }
